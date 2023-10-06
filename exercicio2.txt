@@ -1,0 +1,3 @@
+//Qual o tipo de coesão e acoplamento da função do exercício 1?
+A função maxmin possui alta coesão funcional, pois realiza uma única tarefa bem definida,
+e um acoplamento fraco, pois é independente de outros módulos ou funções
