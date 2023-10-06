@@ -38,7 +38,8 @@ Protótipo da função:
 int conta_primos (int *vet, int qtde);
 - `Exercício 9`:Faça uma função para calcular o valor de S, dado por:
 ![image](https://github.com/Mcbeckerath/ResidenciaTIC18-P11/assets/125604118/37af3a34-9be0-4869-b435-9f688ef976c4)
-Protótipo da função: float calc_serie(int N);
+Protótipo da função:
+float calc_serie(int N);
 - `Exercício 10`: Escreva uma função que recebe uma string de caracteres e uma letra e devolve um
 vetor de inteiros contendo as posições (índices no vetor da string) onde a letra foi
 encontrada) e um inteiro contendo o tamanho do vetor criado (total de letras iguais
